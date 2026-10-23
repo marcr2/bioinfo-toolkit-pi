@@ -1,0 +1,10 @@
+[project]
+name = "bioinfo-toolkit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bioforge>=10.0.0",
+    "ipynb>=0.5.1",
+]

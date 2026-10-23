@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv
+
+# Enviromental variables
+.env
+uv.lock
+
+# Caches
+**/__pycache/
+results/cache/
+
+# Important-subjective information
+data/
+results/
+scripts/main.ipynb
+
